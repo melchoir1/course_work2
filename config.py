@@ -1,1 +1,0 @@
-WORDS_TO_PLAY = 'https://api.npoint.io/fc9cfc9059656103d8b7'
